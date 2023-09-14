@@ -1,7 +1,12 @@
 ### Someone else's Dalamud Plugins, lightly modified and enshittified by me. 
-Probably bad to use, maybe get you banned, definitely lower quality than the originals. I'm unlikely to be updating this again when more plugins are added, so no list, no details, just a link:
+Probably bad to use, maybe get you banned, definitely lower quality than the originals. I'm unlikely to be updating this again when more plugins are added, so no list, no details, just a link
+
 `https://github.com/plottingCreeper/MyDalamudPlugins/raw/main/pluginmaster.json`
-and a helpful hint: `ctrl + w` to close tab, `alcohol` to forget you were ever here.
+
+and a helpful hint
+
+`ctrl + w` to close tab, `alcohol` to forget you were ever here.
+
 
 
 <picture>
