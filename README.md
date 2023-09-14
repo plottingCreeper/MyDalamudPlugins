@@ -1,7 +1,10 @@
 ### Someone else's Dalamud Plugins, lightly modified and enshittified by me. 
-Probably bad to use, maybe get you banned, definitely lower quality than the originals. I'm unlikely to be updating this again when more plugins are added, so no list, no details, just a link
+Probably bad to use, maybe get you banned, definitely lower quality than the originals. I'm unlikely to be updating this again when more plugins are added, so no list, no details. 
 
-`https://github.com/plottingCreeper/MyDalamudPlugins/raw/main/pluginmaster.json`
+Just a link
+```
+https://github.com/plottingCreeper/MyDalamudPlugins/raw/main/pluginmaster.json
+```
 
 and a helpful hint
 
