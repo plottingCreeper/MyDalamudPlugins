@@ -1,11 +1,11 @@
 [
     {
-        "Author": "daemitus",
-        "Name": "Something Need Doing",
+        "Author": "daemitus, croizat",
+        "Name": "Something Need Doing (Expanded Edition)",
         "Punchline": "Work work.",
-        "Description": "A hard-working peon that crafts what you tell him to. An all-in-one sythesizing solution.",
+        "Description": "Now for more than crafting!",
         "InternalName": "SomethingNeedDoing",
-        "AssemblyVersion": "1.4.1.1",
+        "AssemblyVersion": "1.4.1.2",
         "RepoUrl": "https://github.com/plottingCreeper/SomethingNeedDoing",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -18,7 +18,7 @@
         "DownloadLinkTesting": "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1695130298"
+        "LastUpdate": "1695130401"
     },
     {
         "Author": "Windmourn (Updated by Marxvee)",
@@ -43,6 +43,6 @@
         "DownloadLinkTesting": "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/plugins/Speedtorium/latest.zip",
         "DownloadLinkUpdate": "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/plugins/Speedtorium/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1695130298"
+        "LastUpdate": "1695130401"
     }
 ]
