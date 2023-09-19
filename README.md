@@ -3,7 +3,7 @@ Probably bad to use, maybe get you banned, definitely lower quality than the ori
 
 Just a link you shouldn't use
 ```
-https://github.com/plottingCreeper/MyDalamudPlugins/raw/main/pluginmaster.json
+https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/pluginmaster.json
 ```
 
 and a helpful hint
