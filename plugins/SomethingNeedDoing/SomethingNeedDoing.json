@@ -1,9 +1,9 @@
 {
-  "Author": "daemitus",
-  "Name": "Something Need Doing",
+  "Author": "daemitus, croizat",
+  "Name": "Something Need Doing (Expanded Edition)",
   "InternalName": "SomethingNeedDoing",
-  "AssemblyVersion": "1.4.1.1",
-  "Description": "A hard-working peon that crafts what you tell him to. An all-in-one sythesizing solution.",
+  "AssemblyVersion": "1.4.1.2",
+  "Description": "Now for more than crafting!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/plottingCreeper/SomethingNeedDoing",
   "DalamudApiLevel": 8,
