@@ -22,7 +22,7 @@
         "DownloadLinkTesting": "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/plugins/Speedtorium/latest.zip",
         "DownloadLinkUpdate": "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/plugins/Speedtorium/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1695896818"
+        "LastUpdate": "1695897800"
     },
     {
         "Author": "daemitus, croizat",
@@ -30,7 +30,7 @@
         "Punchline": "Work work.",
         "Description": "Now for more than crafting!",
         "InternalName": "SomethingNeedDoing",
-        "AssemblyVersion": "1.4.1.3",
+        "AssemblyVersion": "1.4.1.4",
         "RepoUrl": "https://github.com/plottingCreeper/SomethingNeedDoing",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -43,6 +43,6 @@
         "DownloadLinkTesting": "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadLinkUpdate": "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1695896818"
+        "LastUpdate": "1695897800"
     }
 ]
