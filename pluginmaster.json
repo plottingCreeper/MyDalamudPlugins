@@ -1,5 +1,26 @@
 [
     {
+        "Author": "daemitus, croizat",
+        "Name": "Something Need Doing (Expanded Edition)",
+        "Punchline": "Work work.",
+        "Description": "Now for more than crafting!",
+        "InternalName": "SomethingNeedDoing",
+        "AssemblyVersion": "0.0.0.0",
+        "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 9,
+        "LoadPriority": 0,
+        "IconUrl": "https://github.com/Jaksuhn/SomethingNeedDoing/raw/master/res/icon.png",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1702106314"
+    },
+    {
         "Author": "Windmourn (Updated by Marxvee)",
         "Name": "Speedtorium",
         "Punchline": "Skips cutscenes in Duty Roulette: Main Scenario.",
@@ -22,27 +43,30 @@
         "DownloadLinkTesting": "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/plugins/Speedtorium/latest.zip",
         "DownloadLinkUpdate": "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/plugins/Speedtorium/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1700216322"
+        "LastUpdate": "1702106314"
     },
     {
-        "Author": "daemitus, croizat",
-        "Name": "Something Need Doing (Expanded Edition)",
-        "Punchline": "Work work.",
-        "Description": "Now for more than crafting!",
-        "InternalName": "SomethingNeedDoing",
-        "AssemblyVersion": "0.0.0.0",
-        "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
+        "Author": "ArchiTed",
+        "Name": "Take Me Everywhere",
+        "Punchline": "Take your character to everywhere you want.",
+        "Description": "Take your character to everywhere you want.\nThis plugin is based on the navigate graph on the territory. The way to create this graph is running among the territory by yourself!\nThere is some graph here, but not that much. Please wait for the enrich of the graphs.",
+        "InternalName": "TakeMeEverywhere",
+        "AssemblyVersion": "1.0.3.0",
+        "RepoUrl": "https://github.com/ArchiDog1998/TakeMeEverywhere",
         "ApplicableVersion": "any",
+        "Tags": [
+            "run",
+            "move"
+        ],
         "DalamudApiLevel": 9,
         "LoadPriority": 0,
-        "IconUrl": "https://github.com/Jaksuhn/SomethingNeedDoing/raw/master/res/icon.png",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
+        "IconUrl": "https://xivapi.com/i/000000/000061_hr1.png",
+        "DownloadLinkInstall": "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/plugins/TakeMeEverywhere/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/plugins/SomethingNeedDoing/latest.zip",
+        "DownloadLinkTesting": "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/plugins/TakeMeEverywhere/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/plottingCreeper/MyDalamudPlugins/raw/master/plugins/TakeMeEverywhere/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1700216322"
+        "LastUpdate": "1702106314"
     }
 ]
