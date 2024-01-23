@@ -1,0 +1,15 @@
+{
+  "Author": "veyn",
+  "Name": "vnavmesh",
+  "InternalName": "vnavmesh",
+  "AssemblyVersion": "0.0.0.0",
+  "Description": "Utility to automatically move the character around in the world, skilfully avoiding any obstacles.",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Move around!",
+  "AcceptsFeedback": true
+}
